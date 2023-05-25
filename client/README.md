@@ -1,4 +1,5 @@
-#host: localhost
+##host: localhost
+
 #user: root
 #password: 
 #db:blog_posts
