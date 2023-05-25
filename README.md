@@ -1,9 +1,9 @@
 # BooksReact-Node-MySql
 ---------------------------------
-## host:localhost
-## user:root
-## password:
-## db: blog_posts
+## host : 'localhost'
+## user : 'root'
+## password : ''
+## db: 'blog_posts'
 ---------------------------------
 ### CREATE TABLE IF NOT EXISTS `books` (
 ### id int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
